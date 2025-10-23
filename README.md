@@ -17,7 +17,7 @@ It loads a lightweight open-source LLM (like `SmolLM2-135M-Instruct`) and mainta
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cli-chatbot.git
+git clone https://github.com/shubhamthakur-2504/cli-chatbot-hf.git
 cd cli-chatbot
 
 2️⃣ Create a Virtual Environment
